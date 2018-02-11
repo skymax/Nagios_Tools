@@ -1,0 +1,16 @@
+10.20.168.91^win_10.20.168.91^mailtvlr-168-91^mail-servers,windows-servers
+10.20.168.92^win_10.20.168.92^mailtvlr-168-92^mail-servers,windows-servers
+10.20.168.93^win_10.20.168.93^mailtvlr-168-93^mail-servers,windows-servers
+10.20.168.94^win_10.20.168.94^mailtvlr-168-94^mail-servers,windows-servers
+10.20.168.95^win_10.20.168.95^mailtvlr-168-95^mail-servers,windows-servers
+10.20.168.96^win_10.20.168.96^mailtvlr-168-96^mail-servers,windows-servers
+10.20.168.97^win_10.20.168.97^mailtvlr-168-97^mail-servers,windows-servers
+10.20.168.98^win_10.20.168.98^mailtvlr-168-98^mail-servers,windows-servers
+10.20.168.99^win_10.20.168.99^mailtvlr-168-99^mail-servers,windows-servers
+10.20.168.100^win_10.20.168.100^mailtvlr-168-100^mail-servers,windows-servers
+10.20.168.101^win_10.20.168.101^mailtvlr-168-101^mail-servers,windows-servers
+10.20.168.102^win_10.20.168.102^mailtvlr-168-102^mail-servers,windows-servers
+10.20.168.103^win_10.20.168.103^mailtvlr-168-103^mail-servers,windows-servers
+10.20.168.104^win_10.20.168.104^mailtvlr-168-104^mail-servers,windows-servers
+10.20.168.105^win_10.20.168.105^mailtvlr-168-105^mail-servers,windows-servers
+10.20.168.106^win_10.20.168.106^mailtvlr-168-106^mail-servers,windows-servers

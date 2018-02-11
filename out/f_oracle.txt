@@ -1,0 +1,15 @@
+9.23.2.81^hp_9.23.2.81^cxnewpolicydb01^ncp-policy
+9.23.2.82^hp_9.23.2.82^cxnewpolicydb02^ncp-policy
+9.23.2.105^hp_9.23.2.105^cxnewbaojiadb01^ncp-quotation
+9.23.2.106^hp_9.23.2.106^cxnewbaojiadb02^ncp-quotation
+9.23.2.152^linux_9.23.2.152^newcore-db-2-152^ncp-workbench
+9.23.2.153^linux_9.23.2.153^newcore-db-2-153^ncp-config
+9.23.2.155^linux_9.23.2.155^newcore-db-2-155^ncp-ruleres
+9.23.2.156^linux_9.23.2.156^newcore-db-2-156^ncp-rulerts
+9.23.2.157^linux_9.23.2.157^newcore-db-2-157^ncp-product
+9.23.2.158^linux_9.23.2.158^newcore-db-2-158^ncp-basecode
+9.23.2.159^linux_9.23.2.159^newcore-db-2-159^ncp-rbac
+9.23.33.47^linux_9.23.33.47^sms-db-33-47^sms-db
+9.23.33.48^linux_9.23.33.48^sms-db-33-48^sms-db
+9.23.29.3^linux_9.23.29.3^dmzdb-29-3^new-sale-db
+9.23.29.55^linux_9.23.29.55^xgdb-29-55^nsale-db

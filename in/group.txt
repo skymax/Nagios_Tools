@@ -1,0 +1,40 @@
+ncp-policy|Ncp Policy|��������
+ncp-quotation|Ncp Quotation|��������
+ncp-workbench|Ncp Workbench|ͳһ����̨
+ncp-product|Ncp Product|��Ʒ����
+ncp-basecode|Ncp Basecode|��������
+ncp-rbac|Ncp Rbac|Ȩ�޹���
+ncp-ruleres|Ncp Ruleres|������������̬
+ncp-rulerts|Ncp Rulerts|�����������ƽ̨
+ncp-config|Ncp Config|ϵͳ����
+ncp-knowledge|Ncp Knowledge|֪ʶ��
+ncp-springcloud|Ncp Springcloud|΢����
+ncp-appmon-search|Ncp Appmon-search|
+ncp-redis|Ncp Redis|
+ncp-mq|Ncp Mq|
+ncp-nginx|Ncp Nginx|
+sms-db|SMS DB|�������ݿ�
+new-sale-db|NewSale DB|���������ݿ�
+portal-app|Portal App|OA�Ż�
+uam-ca-app|Uam Ca App|UAM CA
+nsale-app|Nsale App|�����º��Ľӿ�Ӧ��
+nsale-db|Nsale DB|���ܺ��Ľӿ����ݿ�
+payment-interface-app-servers|Payment InterFace App Servers|�ո��ӿڷ�����
+prpall-shuaka-app-servers|Prpall ShuaKa App Servers|ˢ��������
+sfa-db-servers|SFA DB Servers|SFA DB
+oracle-db-servers|Oracle DB Servers|Oracle DB
+windows-servers|Windows Servers|Windows Server
+mail-servers|Mail Servers|Mail Server
+weixinqiyehao-db-servers|WeiXinQiYeHao DB Servers|WeiXinQiYeHao DB Servers
+ecif-client-app-servers|Ecif Client App Servers|Ecif Client App Servers
+carclaim-huidu-app-servers|CarClaim HuiDu App Servers|CarClaim HuiDu App Servers
+ecc-xinaojiacai-center-app-servers|Ecc XinAoJiaCai Center App Servers|Ecc XinAoJiaCai Center App Servers
+ecc-xinaojiacai-prpall-app-servers|Ecc XinAoJiaCai Prpall App Servers|Ecc XinAoJiaCai Prpall App Servers
+ecc-yunwei-center-app-servers|Ecc YunWei Center App Servers|Ecc YunWei Center App Servers
+ecc-yunwei-prpall-app-servers|Ecc YunWei Prpall App Servers|Ecc YunWei Prpall App Servers
+rule-app-ais|Rule App Ais|Rule App Ais
+rule-app-rts|Rule App Rts|Rule App Rts
+ecif-platform-feiche-app-servers|Ecif PlatForm FeiChe App Servers|Ecif PlatForm FeiChe App Servers
+shidian-ecc-sfa2-center-app-servers|ShiDian Ecc SFA2 Center App Servers|ShiDian Ecc SFA2 Center App Servers
+shidian-ecc-sfa2-prpall-app-servers|ShiDian Ecc SFA2 Prpall App Servers|ShiDian Ecc SFA2 Prpall App Servers
+ncp-esb|ncp-esb|外部对接平台

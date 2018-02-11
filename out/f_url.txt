@@ -1,0 +1,7 @@
+9.23.29.35^linux_9.23.29.35^xg_app_29_35^nsale-app^check-url-plant-7001^check_url_plant_7001
+9.23.29.36^linux_9.23.29.36^xg_app_29_36^nsale-app^check-url-plant-7001^check_url_plant_7001
+9.23.29.37^linux_9.23.29.37^xg_app_29_37^nsale-app^check-url-plant-7001^check_url_plant_7001
+9.23.29.38^linux_9.23.29.38^xg_app_29_38^nsale-app^check-url-plant-7001^check_url_plant_7001
+9.23.16.5^linux_9.23.16.5^intf_payment_16_5^payment-interface-app-servers^check-url-payment-7041^check_url_payment_7041
+9.23.16.7^linux_9.23.16.7^intf_payment_16_7^payment-interface-app-servers^check-url-payment-7041^check_url_payment_7041
+9.23.16.8^linux_9.23.16.8^intf_payment_16_8^payment-interface-app-servers^check-url-payment-7041^check_url_payment_7041

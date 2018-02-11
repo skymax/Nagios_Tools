@@ -1,0 +1,4 @@
+9.23.2.81^hp_9.23.2.81^cxnewpolicydb01^ncp-policy
+9.23.2.82^hp_9.23.2.82^cxnewpolicydb02^ncp-policy
+9.23.2.105^hp_9.23.2.105^cxnewbaojiadb01^ncp-quotation
+9.23.2.106^hp_9.23.2.106^cxnewbaojiadb02^ncp-quotation

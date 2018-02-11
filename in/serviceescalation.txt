@@ -1,0 +1,16 @@
+linux_10.20.127.1|check-url-frontServiceCenter-7001|chexian_duijian_pingtai_users
+linux_10.20.127.2|check-url-frontServiceCenter-7001|chexian_duijian_pingtai_users
+aix_9.23.2.1|check-sql-prpemails|dianzibaodanemail_users
+linux_9.23.24.44|check-port-7001|oaportal_users
+linux_9.23.24.45|check-port-7001|oaportal_users
+linux_9.23.24.46|check-port-7001|oaportal_users
+linux_9.23.24.47|check-port-7001|oaportal_users
+linux_9.23.24.48|check-port-7001|oaportal_users
+linux_9.23.24.49|check-port-7001|oaportal_users
+linux_9.23.24.48|check-port-7021|oaportal_users
+linux_9.23.24.49|check-port-7021|oaportal_users
+linux_9.23.24.51|check-port-7001|oaportal_users
+linux_9.23.24.52|check-port-7001|oaportal_users
+linux_9.23.24.44|/oapdata Free Space|oaportal_users
+linux_9.23.23.32|/salesupload/uploadfiles/agent Free Space|sale_app_users
+hpux_9.23.2.32|/oracle/EP1/oraarch Free Space|sap_users

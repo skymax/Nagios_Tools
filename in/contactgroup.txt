@@ -1,0 +1,13 @@
+admins|Nagios Administrators|nagiosadmin,tianqingyuan,shengyu,zhangxiao,liuhang,liuchengjiqiren
+app_admins|Nagios App Administrators|nulluser
+os_admins|Nagios OS Administrators|nulluser
+bea_admins|Nagios Bea Administrators|nulluser
+mail_admins|Nagios Mail Administrators|tianqingyuan
+net_admins|Nagios Mail Administrators|fanxiaopeng
+oaportal_users|Nagios OAPortal Users|zhangliming,lixiaoya
+sap_users|Nagios SAP Users|yangjie,songqian
+sale_app_users|Nagios Sale App Users|shihuiwen
+sfa_users|SFA Users|tianqingyuan
+chexian_duijian_pingtai_users|CheXian DuiJie PingTai Users|fanxiaopeng,zhouliubin,liupu
+dianzibaodanemail_users|DianZiBaoDanEmail Users|xuefengyong,wangpei,maxinyu,chenpeng,linshan
+sfa_etl_users|SFA ETL Users|nulluser

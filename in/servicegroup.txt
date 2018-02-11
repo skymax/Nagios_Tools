@@ -1,0 +1,15 @@
+weblogic-services|Weblogic Services
+mail-services|Mail Services
+os-services|OS Services
+db-services|DB Services
+ogg-services|Golden Gate Services
+hangyepingtai-urls|HangYePingTai URLS
+app-urls|APP URLS
+ntp-services|NTP Services
+f5-urls|F5 URLS
+switch-services|Switch Services
+fenpos-ports|FenPOS Ports
+sql-services|SQL Services
+elt-services|ETL Services
+sfa-elt-services|SFA ETL Services
+tomcat-services|Tomcat Services
