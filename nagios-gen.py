@@ -253,4 +253,6 @@ if __name__ == "__main__":
     outTxt.out_Txt_Log(dic_Logs, Log, file_out_chklog)
     outTxt.out_Txt_Tcp(dic_Tcps, Tcp, file_out_tcp)
     outTxt.out_Txt_Oracle_GoldenGate(dic_oracle_goldengate, Oracle_GoldenGate, file_out_goldengate)
+
+    logger.info('Exit 0')
     sys.exit(0)
